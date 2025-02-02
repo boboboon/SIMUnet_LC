@@ -1,0 +1,9 @@
+{
+    "cmake.configureSettings": {
+        "LHAPDF_CONFIG": "/Users/lucascurtin/miniconda3/envs/simunet/bin/lhapdf-config"
+    },
+    "cmake.environment": {
+        "PATH": "/Users/lucascurtin/miniconda3/envs/simunet/bin:${env:PATH}"
+    },
+    "cmake.buildDirectory": "${workspaceFolder}/build"
+}
